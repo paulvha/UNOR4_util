@@ -1,2 +1,10 @@
 # UNOR4_util
-different programs for UNOR4
+Different programs for Arduino UNOR4
+
+## revisions
+* April 2024
+- Dabble controls
+
+## author
+paulvha@hotmail.com
+
